@@ -1,0 +1,94 @@
+.mainButtons-Left-R1{
+    height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: right;
+    background-image: url("http://vignette1.wikia.nocookie.net/api2509/images/b/bf/Timer.png/revision/latest?cb=20110928000249");
+    background-size: 60%;
+    opacity: 0.7;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.mainButtons-Right-R1{
+   height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: left;
+    background-image: url("http://www.math.com/parents/articles/pub_dom_images/cup.gif");
+    background-size: 50%;
+    opacity: 0.6;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    
+}
+
+.mainButtons-Left-R2{
+    height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: right;
+    background-image: url("https://multiviewblogs.files.wordpress.com/2014/01/to-do-list.png");
+    background-size: 100%;
+    opacity: 0.7;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.mainButtons-Right-R2{
+   height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: left;
+    background-image: url("http://www.mormonmentality.org/wp-content/uploads/2009/10/scriptures.PNG");
+    background-size: 120%;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    
+}
+
+.mainButtons-Left-R3{
+    height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: right;
+    background-image: url("http://mitierracolombian.com/web/wp-content/uploads/2014/06/italian-food-background-100kb.jpg");
+    background-size: 80%;
+    opacity: 0.7;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.mainButtons-Right-R3{
+   height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: left;
+    background-image: url("http://thebudgetshoppe.com/wp-content/uploads/2011/11/TheFamilyBudgetSmall.jpg");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    
+}
+.mainButtons-Left-R4{
+    height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: right;
+    color: black;
+    background-image: url("http://vignette1.wikia.nocookie.net/api2509/images/b/bf/Timer.png/revision/latest?cb=20110928000249");
+    background-size: 60%;
+    opacity: 0.7;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.mainButtons-Right-R4{
+   height: 300px;
+    width: 90%;
+    border-radius: 25px;
+    float: left;
+    background-image: url("");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    
+}
